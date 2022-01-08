@@ -1,6 +1,6 @@
 ---
-short_name: mbettinger
-name: Matthieu Bettinger
+first_name: Matthieu
+name: Bettinger
 position: Doctorant
 ---
 M.B.

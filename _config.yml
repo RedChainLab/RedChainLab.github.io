@@ -57,6 +57,8 @@ plugins:
 collections:
   members:
     output: true
+  news :
+    output : true
 
 defaults:
   - scope:
