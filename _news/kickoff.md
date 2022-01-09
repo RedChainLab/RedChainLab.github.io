@@ -1,8 +1,11 @@
 ---
 title: RedChainLab KickOff
+name : kickoff
 date: 07/10/2020
 location : Lyon, France
 ---
+
+
 
 > Today! The first **RedChainLab** workshop organized by [iExec](<https://iex.ec/fr/> "iExec") and [CNRS](<https://www.cnrs.fr/fr/page-daccueil> "CNRS") (Centre national de la recherche scientifique) - a unique scientific event gathering high-profile researchers from academia and industry around the topics of blockchain, decentralized cloud computing, edge computing, security, Trusted Execution Environments and Federated Learning.
 

@@ -1,7 +1,8 @@
 {% assign img = include.img %}
+{% assign alt = include.alt %}
 <picture>
     <source type="image/webp" srcset="../assets/images/{{page.slug}}/{{img}}.svg" >
-    <img src="../assets/images/{{page.slug}}/{{img}}.png" alt="Logo" />
+    <img src="../assets/images/{{page.slug}}/{{img}}.png" alt="{{alt}}" />
   </picture>
 
 
