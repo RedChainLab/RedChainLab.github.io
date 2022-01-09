@@ -3,7 +3,7 @@ layout: default
 title: News
 ---
 
-<ul>
+<ul class="news">
   {% for new in site.news %}
     <li>
       <h2>{{ new.title }}</h2>

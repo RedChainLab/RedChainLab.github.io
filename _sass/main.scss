@@ -4,8 +4,8 @@
 // }
 
 .content{
-  margin-right: 5%;
-  margin-left: 5%;
+  margin-right: 15%;
+  margin-left: 15%;
 }
 
 nav ul {
@@ -53,4 +53,35 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+
+.header{
+  line-height: 50px; 
+  border-radius: 10px;
+  padding-left: 3px;
+  width:100%;
+  // background-color:#a6a6a6;
+  background:linear-gradient(#a6a6a6, #cccccc);
+  font-family: cursive, sans-serif;
+}
+
+
+.doctorant {
+  float : left;
+}
+
+.reponsable {
+  float : left;
+}
+
+
+.doctorant{
+  display: inline-block;
+  text-align: center;
+  padding: 20px 20px;
+}
+
+.news li{
+  list-style-type: none;
 }

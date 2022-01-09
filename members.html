@@ -2,14 +2,39 @@
 layout: default
 title: Members
 ---
-<h1>Members</h1>
+{% assign doctorants = site.members | where_exp: 'member', 'member.position == "Doctorant"'  %}
+{% assign responsables = site.members | where_exp: 'member', 'member.position != "Doctorant"' %}
 
-<ul>
-  {% for member in site.members %}
-    <li>
-      <h2><a href="{{ member.url }}">{{ member.name }}</a></h2>
-      <h3>{{ member.position }}</h3>
-      <p>{{ member.content | markdownify }}</p>
+
+
+{% assign psize = doctorants | size %}
+{% if psize != 0 %}
+<div class="header"><h2> Phd Students </h2></div>
+{% endif %}
+<ul class>
+  {% for doctorant in doctorants %}  
+  <li class="doctorant">
+      <h2><a href="{{ doctorant.url }}">{{ doctorant.name }}</a></h2>
+      <h3>{{ doctorant.position }}</h3>
+      <p>{{ doctorant.content | markdownify }}</p>
     </li>
   {% endfor %}
 </ul>
+
+{% assign rsize = responsables | size %}
+{% if rsize != 0 %}
+<div class="header"><h2> Principal Investigators </h2></div>
+{% endif %}
+
+<ul>
+  {% for responsable in responsables %}
+    <li class="responsable">
+      <h2><a href="{{ responsable.url }}">{{ responsable.name }}</a></h2>
+      <h3>{{ responsable.position }}</h3>
+      <p>{{ responsable.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
+
+
+
