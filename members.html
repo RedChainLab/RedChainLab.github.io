@@ -6,15 +6,13 @@ title: Members
 {% assign responsables = site.members | where_exp: 'member', 'member.position_id != "phd"' | sort: "name"%}
 {% assign dsize = doctorants | size %}
 {% if dsize != 0 %}
-<div class="header"><h2> PhD. Students </h2></div>
+<div class="header"><h2> PhD Students </h2></div>
 <div>
-  <ul>
-    {% for doctorant in doctorants %}
-      <li class="member">
-        {{doctorant}}
-      </li>
-    {% endfor %}
-  </ul>
+  <table>
+  {% tablerow doctorant in doctorants cols:3 %}
+    {{doctorant}}
+  {% endtablerow %}
+  </table>
 </div>
 {% endif %}
 

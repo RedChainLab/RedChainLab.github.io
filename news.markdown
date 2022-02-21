@@ -10,7 +10,7 @@ title: News
        {% include logo.html img= new.name alt= new.name %}
       </div>
       <h2>{{ new.title }}</h2>
-      <h3 style="color: #808080;">{{ new.date | date_to_string}}{% if new.location%} - {{new.location}}{% endif %}</h3>
+      <h3 style="color: #808080;">{{ new.date | date: "%d %b %Y"}}{% if new.location%} - {{new.location}}{% endif %}</h3>
       
       <p>{{ new.content | markdownify }}</p>
     </li>
