@@ -1,6 +1,7 @@
 ---
 first_name: Matthieu
 name: Bettinger
-position: Doctorant
+position: PhD. Student
+title:
+affiliation: LIRIS-DRIM
 ---
-M.B.

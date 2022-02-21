@@ -1,6 +1,7 @@
 ---
 first_name: Yacine
 name: Belal
-position: Doctorant
+position: PhD. Student
+title:
+affiliation: LIRIS-DRIM
 ---
-Y.B.

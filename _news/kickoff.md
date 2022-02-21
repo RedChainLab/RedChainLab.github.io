@@ -25,14 +25,14 @@ RepuCoin: Your Reputation Is Your Power
 - Dr Yackolley Amoussou-Guenou (Researcher, CEA)
 Ensuring Trust In Blockchain Systems
 
-- Dr Etienne Riviereère (Professor, UC Louvain)
+- Dr Etienne Rivière (Professor, UC Louvain)
 Shard Scheduler: object placement and migration in sharded account-based blockchains
 
 - Dr Joachim Bruneau-Queyreix (Associate Professor, University of Bordeaux, LABRI)
 Multiplexing blockchain protocols to unlock blockchain performances
 
-- Retour sur quelques enjeux juridiques au sein de l’écosystème Blockchain
-Dr Celine Moille (Senior Manager, Deloitte Taj)
+- Dr Celine Moille (Senior Manager, Deloitte Taj) Retour sur quelques enjeux juridiques au sein de l’écosystème Blockchain
+
 
 ### Organizers:<br>
 Sonia Ben Mokhtar (CNRS/INSA Lyon)<br>

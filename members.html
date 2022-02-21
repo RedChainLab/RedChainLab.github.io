@@ -2,8 +2,8 @@
 layout: default
 title: Members
 ---
-{% assign doctorants = site.members | where_exp: 'member', 'member.position == "Doctorant"'  %}
-{% assign responsables = site.members | where_exp: 'member', 'member.position != "Doctorant"' %}
+{% assign doctorants = site.members | where_exp: 'member', 'member.position == "Phd. Student"'  %}
+{% assign responsables = site.members | where_exp: 'member', 'member.position != "Phd. Student"' %}
 
 
 
