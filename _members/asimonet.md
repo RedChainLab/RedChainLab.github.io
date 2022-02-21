@@ -2,6 +2,6 @@
 first_name: Anthony
 name: Simonet-Boulogne
 position: 
-title: Dr.
+civ_title: Dr.
 affiliation: iExec
 ---

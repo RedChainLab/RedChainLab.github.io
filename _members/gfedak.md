@@ -2,6 +2,7 @@
 first_name: Gilles
 name: Fedak
 position: 
-title: Prof. Dr.
+civ_title: Prof. Dr.
 affiliation: iExec
+url_web: https://cv.archives-ouvertes.fr/gilles-fedak
 ---

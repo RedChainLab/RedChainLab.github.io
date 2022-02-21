@@ -1,7 +1,5 @@
 ---
-layout: default
+layout: sub
 ---
-<h1>{{ page.name }}</h1>
-<h2>{{ page.position }}</h2>
-
-{{ content }}
+<h2>{% if page.url_web %}<a href="{{ page.url_web }}">{% endif %}{{ page.civ_title }} {{ page.first_name }} {{ page.name }}</a></h2>
+<h3>{{ page.position }}</h3>

@@ -59,6 +59,8 @@ collections:
     output: true
   news :
     output : true
+  publications :
+    output : true
 
 defaults:
   - scope:
@@ -68,9 +70,9 @@ defaults:
       layout: "member"
   - scope:
       path: ""
-      type: "posts"
+      type: "publications"
     values:
-      layout: "post"
+      layout: "publication"
   - scope:
       path: ""
     values:

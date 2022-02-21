@@ -1,7 +1,9 @@
 ---
 first_name: Matthieu
 name: Bettinger
-position: PhD. Student
-title:
+position:
+position_id: phd
+civ_title:
 affiliation: LIRIS-DRIM
+url_web: https://liris.cnrs.fr/page-membre/matthieu-bettinger
 ---

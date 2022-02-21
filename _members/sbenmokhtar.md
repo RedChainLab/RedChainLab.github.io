@@ -1,7 +1,8 @@
 ---
-first_name: Lionel
-name: Brunie
+first_name: Sonia
+name: Ben Mokhtar
 position: 
-title: Prof. Dr.
+civ_title: Prof. Dr.
 affiliation: LIRIS-DRIM
+url_web: https://sites.google.com/view/sonia-benmokhtar/accueil
 ---
