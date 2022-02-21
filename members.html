@@ -2,39 +2,39 @@
 layout: default
 title: Members
 ---
-{% assign doctorants = site.members | where_exp: 'member', 'member.position == "Doctorant"'  %}
-{% assign responsables = site.members | where_exp: 'member', 'member.position != "Doctorant"' %}
-
-
-
-{% assign psize = doctorants | size %}
-{% if psize != 0 %}
-<div class="header"><h2> Phd Students </h2></div>
+{% assign doctorants = site.members | where_exp: 'member', 'member.position_id == "phd"' | sort: "name"%}
+{% assign responsables = site.members | where_exp: 'member', 'member.position_id != "phd"' | sort: "name"%}
+{% assign dsize = doctorants | size %}
+{% if dsize != 0 %}
+<div class="header"><h2> PhD Students </h2></div>
+<div>
+  <table>
+  {% tablerow doctorant in doctorants cols:3 %}
+    {{doctorant}}
+  {% endtablerow %}
+  </table>
+</div>
 {% endif %}
-<ul class>
-  {% for doctorant in doctorants %}  
-  <li class="doctorant">
-      <h2><a href="{{ doctorant.url }}">{{ doctorant.name }}</a></h2>
-      <h3>{{ doctorant.position }}</h3>
-      <p>{{ doctorant.content | markdownify }}</p>
-    </li>
-  {% endfor %}
-</ul>
 
 {% assign rsize = responsables | size %}
 {% if rsize != 0 %}
+{% assign affiliations = responsables | map: "affiliation" | uniq | sort %}
 <div class="header"><h2> Principal Investigators </h2></div>
-{% endif %}
-
-<ul>
-  {% for responsable in responsables %}
-    <li class="responsable">
-      <h2><a href="{{ responsable.url }}">{{ responsable.name }}</a></h2>
-      <h3>{{ responsable.position }}</h3>
-      <p>{{ responsable.content | markdownify }}</p>
-    </li>
+<div>
+  {% for affiliated_to in affiliations %}
+  {% assign entity = site.data.entities | where_exp: 'entity', 'entity.name==affiliated_to' | first %}
+  <h2>From <a href="{{ entity.link }}">{{affiliated_to}}</h2>
+  <ul>
+    {% assign affiliated_responsables = responsables | where_exp: 'responsables', 'responsables.affiliation == affiliated_to' %}
+    {% for responsable in affiliated_responsables %}
+      <li class="member">
+        {{responsable}}
+      </li>
+    {% endfor %}
+  </ul>
   {% endfor %}
-</ul>
+</div>
+{% endif %}
 
 
 

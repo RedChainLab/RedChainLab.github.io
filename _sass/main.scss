@@ -1,12 +1,24 @@
 body {
   font :  18px/1.4 serif;
+  font-family: Calibri, sans-serif;//cursive, sans-serif;
 }
 
+a {
+  color: #222;
+  font-style: bold;
+}
 
+.img-rounded {
+  border-radius: 6px;
+}
+
+.pull-right {
+  float: right !important;
+}
 
 .content{
-  margin-right: 20%;
-  margin-left: 20%;
+  margin-right: 10%;
+  margin-left: 10%;
 }
 
 nav ul {
@@ -41,7 +53,7 @@ nav li a:hover {
 #greyBloc {
   margin-left: auto;
   margin-right: auto;
-  background-color: #669999; // cccccc
+  //background-color: #FFFFFF; // cccccc
   width: 60%;
   min-width: 200px;
   height: 200px;
@@ -70,6 +82,7 @@ nav li a:hover {
   max-width: 90%;
   max-height: 90%;
   display: block;
+  margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -78,11 +91,11 @@ nav li a:hover {
 .header{
   line-height: 50px; 
   border-radius: 10px;
-  padding-left: 3px;
+  padding-left: 20px;
   width:100%;
   // background-color:#a6a6a6;
   background:linear-gradient(#a6a6a6, #cccccc);
-  font-family: cursive, sans-serif;
+  font-family: Calibri, sans-serif;//cursive, sans-serif;
 }
 
 
@@ -90,12 +103,12 @@ nav li a:hover {
   float : left;
 }
 
-.reponsable {
+.dddd {
   float : left;
 }
 
 
-.doctorant{
+.member{
   display: inline-block;
   text-align: center;
   padding: 20px 20px;
