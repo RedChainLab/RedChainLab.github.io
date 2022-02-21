@@ -23,15 +23,14 @@ title: Members
 <div>
   {% for affiliated_to in affiliations %}
   {% assign entity = site.data.entities | where_exp: 'entity', 'entity.name==affiliated_to' | first %}
-  <h2>From <a href="{{ entity.link }}">{{affiliated_to}}</h2>
-  <ul>
+  <h2>From <a href="{{ entity.link }}">{{affiliated_to}}</a></h2>
     {% assign affiliated_responsables = responsables | where_exp: 'responsables', 'responsables.affiliation == affiliated_to' %}
-    {% for responsable in affiliated_responsables %}
-      <li class="member">
-        {{responsable}}
-      </li>
-    {% endfor %}
-  </ul>
+    <table>
+      {% tablerow responsable in affiliated_responsables cols:3 %}
+       {{responsable}}
+      {% endtablerow %}
+    </table>
+    
   {% endfor %}
 </div>
 {% endif %}
