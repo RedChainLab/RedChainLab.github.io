@@ -8,6 +8,15 @@ a {
   font-style: bold;
 }
 
+table{
+  table-layout: fixed ;
+  width: 100%;
+}
+
+td{
+  vertical-align: top;
+}
+
 .img-rounded {
   border-radius: 6px;
 }
