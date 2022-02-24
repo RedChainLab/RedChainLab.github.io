@@ -4,9 +4,9 @@ title: "PEPPER : Empowering User-Centric Recommender Systems over Gossip Learnin
 name : pepper
 date: Apr 2022
 author: Yacine Belal, Aurélien Bellet, Sonia Ben Mokhtar, Vlad Nitu
-booktitle: The Sixteenth International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies (UBICOMM 2022)
+booktitle:
 publisher: 
-publisher_url: https://www.iaria.org/conferences2022/UBICOMM22.html
+publisher_url: 
 location: 
 pages: 
 doi:
