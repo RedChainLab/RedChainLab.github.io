@@ -1,13 +1,14 @@
 ---
 type: inproceedings
-title: "GradSec: a TEE-based Scheme Against Federated Learning Inference Attacks"
+title: "Shielding Federated Learning Systems against Inference Attacks with ARM TrustZone"
 name : gradsec
-date: Oct 2021
+date: Nov 2022
 author: Aghiles Ait Messaoud, Sonia Ben Mokhtar, Vlad Nitu, and Valerio Schiavoni
-booktitle: Proceedings of First Workshop on Systems Challenges in Reliable and Secure Federated Learning (ResilientFL '21)
+booktitle: Proceedings of the 23rd ACM/IFIP International Middleware Conference (Middleware '22)
 publisher: Association for Computing Machinery
-publisher_url: https://dl.acm.org/doi/proceedings/10.1145/3477114
-location: New York, NY, USA 
-pages: 10–12
-doi: https://doi.org/10.1145/3477114.3488763
+publisher_url: 
+location: Québec City, Québec, Canada
+pages: 11–13
+doi: https://doi.org/10.48550/arXiv.2208.05895
+status:
 ---
