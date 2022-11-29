@@ -10,4 +10,5 @@ publisher_url: https://link.springer.com/article/10.1007/s42979-022-01227-5
 issue: 3
 article_number: 334
 doi: https://doi.org/10.1007/s42979-022-01227-5
+github: https://github.com/mbettinger/collusion-resistant-worker-set-selection
 ---
