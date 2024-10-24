@@ -1,11 +1,9 @@
 ---
-layout: default
-title: RedChainLab Workshop 2024
+title: 3rd RedChainLab Workshop 2024
+name : workshop3
+date: 30/10/2024
+location : Lyon, France
 ---
-
-# 3rd RedChain-Lab Workshop
-
-## Oct. 30-31 2024, Lyon, France
 
 ### Overview
 
@@ -46,8 +44,8 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
       <tr>
          <td class="time">14:00</td>
          <td>Sonia Ben Mokhtar, Gilles Fedak</td>
-         <td class="title">redchainlab &amp; iexec presentation</td>
-         <td>cnrs, iexec blockchain tech</td>
+         <td class="title">RedchainLab &amp; iExec introduction</td>
+         <td>CNRS, iExec Blockchain Tech</td>
       </tr>
       <tr>
          <td class="time">14:45</td>
@@ -69,13 +67,13 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
       </tr>
       <tr>
          <td class="time">16:30</td>
-         <td>david r.matos</td>
+         <td>David Matos</td>
          <td class="title">tbd</td>
          <td>Técnico Lisboa</td>
       </tr>
       <tr class="break">
          <td></td>
-         <td colspan="3">Dinner</td>
+         <td colspan="3">Social Dinner</td>
       </tr>
       <tr class="day">
          <td colspan="4">Thursday 10/31</td>
@@ -96,15 +94,15 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
       </tr>
       <tr>
          <td class="time">11:00</td>
-         <td>aghiles aït messaoud</td>
-         <td class="title">confidential key-value store for untrusted environments</td>
-         <td>cnrs, iexec blockchain tech</td>
+         <td>Aghiles Aït Messaoud</td>
+         <td class="title">Confidential key-value store for untrusted environments</td>
+         <td>CNRS, iExec Blockchain Tech</td>
       </tr>
       <tr>
          <td class="time">11:15</td>
-         <td>aimen djari, lei zhang</td>
+         <td>Aimen Djari, Lei Zhang</td>
          <td class="title">tbd</td>
-         <td>iexec blockchain tech</td>
+         <td>iExec Blockchain Tech</td>
       </tr>
       <tr class="break">
          <td class="time">12:00</td>
@@ -114,9 +112,9 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
       </tr>
       <tr>
          <td class="time">14:00</td>
-         <td>carole frindel</td>
-         <td class="title">decentralization for personalized machine learning in healthcare</td>
-         <td>creatis lab</td>
+         <td>Carole Frindel</td>
+         <td class="title">Decentralization for personalized machine learning in healthcare</td>
+         <td>Creatis Lab</td>
       </tr>
       <tr class="break short">
          <td class="time">14:45</td>
@@ -124,19 +122,19 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
       </tr>
       <tr>
          <td class="time">15:30</td>
-         <td>yacine belal</td>
-         <td class="title">decentralized recommender systems</td>
-         <td>cnrs, iExec Blockchain Tech</td>
+         <td>Yacine Belal</td>
+         <td class="title">Decentralized recommender systems</td>
+         <td>CNRS, iExec Blockchain Tech</td>
       </tr>
       <tr>
          <td class="time">15:45</td>
-         <td>miguel pardal</td>
+         <td>Miguel Pardal</td>
          <td class="title">tbd</td>
          <td></td>
       </tr>
       <tr>
          <td class="time">16:30</td>
-         <td>stefan contiu</td>
+         <td>Stefan Contiu</td>
          <td class="title">tbd</td>
          <td></td>
       </tr>
