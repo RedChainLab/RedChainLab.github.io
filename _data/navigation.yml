@@ -1,12 +1,10 @@
 - name: Home
   link: /
-- name: 2024 Workshop program
-  link: /2024-workshop.markdown
 - name: News
   link: /news.html
 - name: Members
   link: /members.html
 - name: Publications
   link: /publications.html
-- name: 20204 Workshop
+- name: 2024 Workshop
   link: /2024-workshop.html
