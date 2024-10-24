@@ -1,11 +1,9 @@
 ---
-layout: default
-title: RedChainLab Workshop 2024
+title: 3rd RedChainLab Workshop 2024
+name : workshop3
+date: 30/10/2024
+location : Lyon, France
 ---
-
-# 3rd RedChain-Lab Workshop
-
-## Oct. 30-31 2024, Lyon, France
 
 ### Overview
 
