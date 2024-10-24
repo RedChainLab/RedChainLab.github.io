@@ -131,3 +131,70 @@ nav li a:hover {
 .news li{
   list-style-type: none;
 }
+
+table.program {
+  table-layout: auto;
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8em;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.program td {
+  padding: 6px 15px;
+  white-space: nowrap;
+}
+
+.program thead tr {
+  background-color: #C02F1D;
+  color: #fff;
+  text-align: left;
+}
+
+.program tr.day {
+  border-bottom: 3px solid #C02F1D;
+}
+
+.program td.time {
+ width: 10%;
+}
+
+.program thead th, tr.day td, tr.break td {
+  padding: 12px 15px;
+}
+
+tr.day td {
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+tr.break {
+  background-color: #eee;
+  border-bottom: 2px solid #222;
+  border-top: 2px solid #222;
+}
+
+tr.break.short td {
+  padding: 4px 15px;
+  background-color: #efefef;
+}
+
+tr.break td:not(:first-child) {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+td.title {
+  width: 99%;
+  text-overflow: ellipsis;
+  white-space: normal;
+}
+
+.program tbody tr:not(.day):not(.break):nth-of-type(odd) {
+    background-color: #f7d9d5;
+}
+
+.program tbody tr:last-of-type {
+    border-bottom: 3px solid #C02F1D;
+}
