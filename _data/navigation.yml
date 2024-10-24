@@ -1,5 +1,7 @@
 - name: Home
   link: /
+- name: 2024 Workshop program
+  link: /2024-workshop.markdown
 - name: News
   link: /news.html
 - name: Members
