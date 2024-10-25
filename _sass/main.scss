@@ -1,6 +1,7 @@
 body {
   font :  18px/1.4 serif;
   font-family: Calibri, sans-serif;//cursive, sans-serif;
+  padding-bottom: 50px;
 }
 
 a {
@@ -142,7 +143,6 @@ table.program {
 
 .program td {
   padding: 6px 15px;
-  white-space: nowrap;
 }
 
 .program thead tr {
@@ -153,10 +153,6 @@ table.program {
 
 .program tr.day {
   border-bottom: 3px solid #C02F1D;
-}
-
-.program td.time {
- width: 10%;
 }
 
 .program thead th, tr.day td, tr.break td {
@@ -185,9 +181,25 @@ tr.break td:not(:first-child) {
   font-weight: bold;
 }
 
-td.title {
-  width: 99%;
-  text-overflow: ellipsis;
+.program td.time {
+}
+
+.program td.title {
+  width: auto;
+  min-width: 40ch;
+}
+
+.program td.speaker, th.speaker {
+  width: 25ch;
+  min-width: 15ch;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+.program td.affiliation, th.affiliation {
+  width: 30ch;
+  min-width: 15ch;
+  word-wrap: break-word;
   white-space: normal;
 }
 
@@ -197,4 +209,21 @@ td.title {
 
 .program tbody tr:last-of-type {
     border-bottom: 3px solid #C02F1D;
+}
+
+address {
+  text-align: left;
+  border-left: solid #222 2px;
+  padding-left: 15px;
+}
+
+address a {
+  font-style: normal;
+}
+
+div.logos {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  gap: 200px;
 }
