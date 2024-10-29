@@ -55,7 +55,7 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
       <tr>
          <td class="time">15:30−16:15</td>
          <td class="speaker">Miguel Matos</td>
-         <td class="title">TBD</td>
+         <td class="title">Towards Scalable Blockchain Systems</td>
          <td class="affiliation">Técnico lisboa</td>
       </tr>
       <tr>
@@ -67,7 +67,7 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
       <tr>
          <td class="time">17:00−17:45</td>
          <td class="speaker">David Matos</td>
-         <td class="title">TBD</td>
+         <td class="title">A decentralized platform for securing Electronic Health Records</td>
          <td class="affiliation">Técnico Lisboa</td>
       </tr>
       <tr class="break">
@@ -106,7 +106,7 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
       <tr>
          <td class="time">11:45−12:30</td>
          <td class="speaker">Aimen Djari, Lei Zhang</td>
-         <td class="title">TBD</td>
+         <td class="title">Conker: Confidential Docker Execution in Intel TDX</td>
          <td class="affiliation">iExec Blockchain Tech</td>
       </tr>
       <tr class="break">
@@ -124,7 +124,7 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
       <tr>
          <td class="time">15:00−15:45</td>
          <td class="speaker">Hugo Macedo</td>
-         <td class="title">TBD</td>
+         <td class="title">Applications of Verified Computation in Blockchain Tech</td>
          <td class="affiliation">Técnico Lisboa</td>
       </tr>
       <tr>
