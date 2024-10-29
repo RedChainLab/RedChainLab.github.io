@@ -167,6 +167,7 @@ The workshop will be hosted at CNRS on the University of Lyon campus in Villeurb
 Workshop participants are invited to share drinks and food at a typical Wine Bar and Restaurant in the Presqu’île ditrict of Lyon, just inbetween the Rhône and Soane rivers from 7PM on Wednesday Oct. 30th:
 <address>
 	<span>
+		<b>L'Ange Di Vin</b><br/>
 		13 Rue de la Monnaie<br/>
 		69002 Lyon<br/>
 		<a href="https://maps.app.goo.gl/rgJRTeo5QQNRHeHa9">Google Maps</a>
