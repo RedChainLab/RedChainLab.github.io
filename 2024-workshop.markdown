@@ -50,7 +50,7 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
          <td class="time">14:45−15:30</td>
          <td class="speaker">Etienne Riviere</td>
          <td class="title">PANDAS: A Practical Approach for Next-generation Data Availability Sampling</td>
-         <td class="affiliation">UCL, Belgium</td>
+         <td class="affiliation">UCLouvain, Belgium</td>
       </tr>
       <tr>
          <td class="time">15:30−16:15</td>
@@ -109,38 +109,24 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
          <td class="title">Conker: Confidential Docker Execution in Intel TDX</td>
          <td class="affiliation">iExec Blockchain Tech</td>
       </tr>
-      <tr class="break">
-         <td class="time">12:30-14:15</td>
-         <td colspan="3">Lunch</td>
-      </tr>
       <tr>
-      </tr>
-      <tr>
-         <td class="time">14:15−15:00</td>
+         <td class="time">12:30−13:00</td>
          <td class="speaker">Yacine Belal</td>
          <td class="title">Decentralized Recommender Systems</td>
          <td class="affiliation">CNRS, iExec Blockchain Tech</td>
       </tr>
+      <tr class="break">
+         <td class="time">13:00-14:00</td>
+         <td colspan="3">Lunch</td>
+      </tr>
       <tr>
-         <td class="time">15:00−15:45</td>
+         <td class="time">14:00−14:45</td>
          <td class="speaker">Hugo Macedo</td>
          <td class="title">Applications of Verified Computation in Blockchain Tech</td>
          <td class="affiliation">Técnico Lisboa</td>
       </tr>
       <tr>
-         <td class="time">15:45−16:00</td>
-         <td class="speaker">Lamyae Hassini</td>
-         <td class="title">TBD</td>
-         <td class="affiliation">Université de Bordeaux</td>
-      </tr>
-      <tr>
-         <td class="time">16:00−16:15</td>
-         <td class="speaker">Bastien Gastaldi</td>
-         <td class="title">TBD</td>
-         <td class="affiliation">Université de Bordeaux</td>
-      </tr>
-      <tr>
-         <td class="time">16:15−17:00</td>
+         <td class="time">14:45−15:00</td>
          <td class="speaker">Sonia Ben Mokhtar, Anthony Simonet-Boulogne</td>
          <td class="title">RedchainLab &amp; iExec introduction</td>
          <td class="affiliation">CNRS, iExec Blockchain Tech</td>
