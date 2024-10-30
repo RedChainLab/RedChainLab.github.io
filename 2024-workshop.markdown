@@ -128,7 +128,7 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
       <tr>
          <td class="time">14:45−15:00</td>
          <td class="speaker">Sonia Ben Mokhtar, Anthony Simonet-Boulogne</td>
-         <td class="title">RedchainLab &amp; iExec introduction</td>
+         <td class="title">Closing remarks</td>
          <td class="affiliation">CNRS, iExec Blockchain Tech</td>
       </tr>
    </tbody>
