@@ -163,5 +163,6 @@ The workshop will be hosted at the Lyon 1 University's library on the Doua campu
 
 <div class="logos">
 	<img src="../assets/images/logo_cnrs.png" height="80" alt="CNRS" />	
+   <img src="../assets/images/logo_insa.png" height="80" alt="CNRS" />	
 	<img src="../assets/images/logo_iexec.png" height="80" alt="iExec" />	
 </div>
