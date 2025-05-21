@@ -166,7 +166,7 @@ tr.day td {
 }
 
 tr.break {
-  background-color: #eee;
+  background-color: #f7d9d5;
   border-bottom: 2px solid #222;
   border-top: 2px solid #222;
 }
@@ -204,7 +204,7 @@ tr.break td:not(:first-child) {
 }
 
 .program tbody tr:not(.day):not(.break):nth-of-type(odd) {
-    background-color: #f7d9d5;
+    background-color: #eee;
 }
 
 .program tbody tr:last-of-type {
