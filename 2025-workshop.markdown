@@ -7,7 +7,7 @@ location : Lyon, France
 
 ### Overview
 
-The fourth RedChainLab Workshop will take place from June 10th to 12h 2025 in Lyon, France, marking another significant milestone in the journey of the RedChainLab project.
+The fourth RedChainLab Workshop will take place from June 10th to 12th 2025 in Lyon, France, marking another significant milestone in the journey of the RedChainLab project.
 
 Since its inception three years ago, the workshop has become a premier forum for high-profile researchers from both academia and industry to share their knowledge and collaborate on cutting-edge technologies. This year, the workshop will once again cover a wide range of topics, including blockchain, decentralized cloud computing, edge computing, security, and federated learning.
 
