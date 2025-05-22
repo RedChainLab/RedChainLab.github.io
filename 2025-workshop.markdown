@@ -73,7 +73,7 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
          <td class="time">9:30−10:15</td>
          <td class="speaker">Carole Frindel</td>
          <td class="title">Fusion multimodale et apprentissage profond pour des décisions thérapeutiques personnalisées</td>
-         <td class="affiliation">Creatis Lab, France</td>
+         <td class="affiliation">Creatis, INSA Lyon, France</td>
       </tr>
       <tr>
          <td class="time">10:15-11:00</td>
