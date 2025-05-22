@@ -40,13 +40,13 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
          <td class="time">11:30-12:15</td>
          <td class="speaker">Cédric Gouy-Pailler</td>
          <td class="title">Combining homomorphic encryption and differential privacy in federated learning</td>
-         <td class="affiliation"></td>
+         <td class="affiliation">CEA-LIST, France</td>
       </tr>
       <tr>
          <td class="time">12:15-13:00</td>
-         <td class="speaker">Marc Tomassi</td>
+         <td class="speaker">Marc Tommasi</td>
          <td class="title">TBA</td>
-         <td class="affiliation"></td>
+         <td class="affiliation">University of Lille, France</td>
       </tr>
       <tr class="break">
          <td class="time">13:00−14:30</td>
@@ -79,7 +79,7 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
          <td class="time">10:15-11:00</td>
          <td class="speaker">François Taïani</td>
          <td class="title">Near-Optimal Communication Byzantine Reliable Broadcast under a Message Adversary</td>
-         <td class="affiliation"></td>
+         <td class="affiliation">University of Rennes, France</td>
       </tr>
       <tr class="break short">
          <td class="time">11:00−11:15</td>
@@ -130,7 +130,7 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
       </tr>
       <tr>
          <td class="time">14:00−14:45</td>
-         <td class="speaker">Sara Tucci</td>
+         <td class="speaker">Sara Tucci-Piergiovanni</td>
          <td class="title">TBA</td>
          <td class="affiliation">CEA-LIST, France</td>
       </tr>
