@@ -36,6 +36,10 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
       <tr class="day">
          <td colspan="4">Tuesday, June 10th</td>
       </tr>
+      <tr class="break">
+         <td class="time">11:00−11:30</td>
+         <td colspan="3">☕️ Welcome</td>
+      </tr>
       <tr>
          <td class="time">11:30-12:15</td>
          <td class="speaker">Cédric Gouy-Pailler</td>
