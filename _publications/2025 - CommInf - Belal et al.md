@@ -4,9 +4,8 @@ title: "Inferring Communities of Interest in Collaborative Learning-based Recomm
 name : CommInf
 date: Apr 2025
 year: 2025
-author: Yacine Belal, Mohamed Maouche, Sonia Ben Mokhtar, Anthony Simonet-Boulogne
-booktitle: Proceedings of the 2025 45th IEEE International
-Conference on Distributed Computing Systems (ICDCS '25)
+author: Yacine Belal, Mohamed Maouche, Sonia Ben Mokhtar, and Anthony Simonet-Boulogne
+booktitle: Proceedings of the 2025 45th IEEE International Conference on Distributed Computing Systems (ICDCS '25)
 publisher:
 publisher_url: 
 location: 
