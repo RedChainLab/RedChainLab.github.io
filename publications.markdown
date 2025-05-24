@@ -3,6 +3,7 @@ layout: default
 title: Publications
 ---
 {% assign years = site.publications | group_by: "date" %}
+{% assign yearsSorted = years | sort: "name" %}
 {% for y in yearsSorted %}
 # {{y.name}}
 {% assign yearTitlesSorted = y.items | sort: "title" %}
