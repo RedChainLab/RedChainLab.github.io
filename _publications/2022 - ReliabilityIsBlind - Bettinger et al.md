@@ -4,7 +4,7 @@ title: "Reliability is Blind: Collective Incentives for Decentralized Computing 
 name : rib
 date: Apr 2025
 author: Henry Mont, Matthieu Bettinger, Sonia Ben Mokhtar & Anthony Simonet-Boulogne
-booktitle: Companion Proceedings of the *2025 20th European Dependable Computing Conference* (EDCC-C'25)
+booktitle: Companion Proceedings of the 2025 20th European Dependable Computing Conference (EDCC-C'25)
 publisher: IEEE
 publisher_url: 
 issue: 

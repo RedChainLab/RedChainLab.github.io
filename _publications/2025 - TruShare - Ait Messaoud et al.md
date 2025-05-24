@@ -4,7 +4,7 @@ title: "TruShare: Confidential Key-Value Store for Untrusted Environments"
 name : trushare
 date: Apr 2025
 author: Aghiles Ait Messaoud, Sonia Ben Mokhtar, Anthony Simonet-Boulogne
-booktitle: Proceedings of the *20th European Dependable Computing Conference* (EDCC '25)
+booktitle: Proceedings of the 20th European Dependable Computing Conference (EDCC '25)
 publisher: 
 publisher_url: 
 location: 
