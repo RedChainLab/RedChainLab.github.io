@@ -2,7 +2,7 @@
 layout: default
 title: Publications
 ---
-{% assign years = site.publications | group_by: "date" %}
+{% assign years = site.publications | group_by: "year" %}
 {% assign yearsSorted = years | sort: "name" | reverse %}
 {% for y in yearsSorted %}
 # {{y.name | date: "%Y" }}

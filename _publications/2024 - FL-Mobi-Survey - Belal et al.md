@@ -3,6 +3,7 @@ type: inproceedings
 title: "Survey of Federated Learning Models for Spatial-Temporal Mobility Applications"
 name : fl-mobi-survey
 date: Jul 2024
+year: 2024
 author:  Yacine Belal, Sonia Ben Mokhtar, Hamed Haddadi, Jaron Wang, Afra Mashhadi
 booktitle: ACM Transactions on Spatial Algorithms and Systems
 publisher: ACM

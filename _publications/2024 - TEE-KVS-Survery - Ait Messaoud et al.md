@@ -3,6 +3,7 @@ type: journal
 title: "TEE-based Key-Balue Stores: a Survey"
 name : tee-kvs-survey
 date: Dec 2024
+year: 2024
 author: Aghiles Ait Messaoud, Sonia Ben Mokhtar, Anthony Simonet-Boulogne
 booktitle: The VLDB Journal
 publisher: Springer

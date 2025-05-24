@@ -3,6 +3,7 @@ type: journal
 title: "Collusion-Resistant Worker Set Selection for Transparent and Verifiable Voting"
 name : crwss
 date: Jun 2022
+year: 2022
 author: Bettinger Matthieu, Barbero Lucas, and Hasan Omar
 booktitle:  SN Computer Science
 publisher: Springer
