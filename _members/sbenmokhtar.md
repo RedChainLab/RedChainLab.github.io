@@ -2,7 +2,8 @@
 first_name: Sonia
 name: Ben Mokhtar
 position: 
-civ_title: Prof. Dr.
+civ_title: Dr.
+post_title: (HdR)
 affiliation: LIRIS-DRIM
 url_web: https://sites.google.com/view/sonia-benmokhtar/accueil
 img: true

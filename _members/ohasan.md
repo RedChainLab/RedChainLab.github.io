@@ -3,6 +3,7 @@ first_name: Omar
 name: Hasan
 position: 
 civ_title: Dr.
+post_title: (HdR)
 affiliation: LIRIS-DRIM
 url_web: https://perso.liris.cnrs.fr/omar.hasan/
 img: true
