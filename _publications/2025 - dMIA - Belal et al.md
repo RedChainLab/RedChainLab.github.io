@@ -1,5 +1,5 @@
 ---
-type: inproceedings
+type: preprint
 title: "Scrutinizing the Vulnerability of Decentralized Learning to Membership Inference Attacks"
 name : dMIA
 date: Feb 2025
