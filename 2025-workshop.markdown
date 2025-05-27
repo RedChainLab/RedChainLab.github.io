@@ -49,7 +49,7 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
       <tr>
          <td class="time">12:15-13:00</td>
          <td class="speaker">Marc Tommasi</td>
-         <td class="title">TBA</td>
+         <td class="title">On synthetic data generation and privacy</td>
          <td class="affiliation">University of Lille, France</td>
       </tr>
       <tr class="break">
