@@ -135,7 +135,7 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
       <tr>
          <td class="time">14:00−14:45</td>
          <td class="speaker">Sara Tucci-Piergiovanni</td>
-         <td class="title">TBA</td>
+         <td class="title">Analysis of the Ethereum Proof of Stake protocol</td>
          <td class="affiliation">CEA-LIST, France</td>
       </tr>
       <tr>
