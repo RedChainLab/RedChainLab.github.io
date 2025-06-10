@@ -156,7 +156,7 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
 
 ### Venue
 
-The workshop will be hosted at the Lyon 1 University's library on the Doua campus in Villeurbanne (close to the "Gaston Berger" stop using either the T1 tram line, direction "INSA Einstein", or the T4 tram line, its terminus):
+The workshop will be hosted at the Lyon 1 University's library on the Doua campus in Villeurbanne (between the "Université Lyon 1" and "Gaston Berger" stops using either the T1 tram line, direction "INSA Einstein", or the T4 tram line, direction "Gaston Berger"):
 <address>
 	<span>
 		20 avenue Gaston Berger<br/>
