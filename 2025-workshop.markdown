@@ -70,15 +70,15 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
          <td colspan="4">Wednesday, June 11th</td>
       </tr>
       <tr class="break">
-         <td class="time">9:00−9:30</td>
+         <td class="time">10:00−10:15</td>
          <td colspan="3">🥐 Welcome/Breakfast</td>
       </tr>
-      <tr>
+      <!-- <tr>
          <td class="time">9:30−10:15</td>
          <td class="speaker">Carole Frindel</td>
          <td class="title">Fusion multimodale et apprentissage profond pour des décisions thérapeutiques personnalisées</td>
          <td class="affiliation">Creatis, INSA Lyon, France</td>
-      </tr>
+      </tr> -->
       <tr>
          <td class="time">10:15-11:00</td>
          <td class="speaker">François Taïani</td>
