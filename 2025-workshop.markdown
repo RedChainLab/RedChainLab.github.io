@@ -156,7 +156,7 @@ Join us in Lyon to be a part of this dynamic exchange of ideas and contribute to
 ### Visio-conference
 
 You can attend presentations at the following link:
-<a href="https://insa-lyon-fr.zoom.us/j/98371152767">https://insa-lyon-fr.zoom.us/j/98371152767</a>
+<a href="https://insa-lyon-fr.zoom.us/j/93822421639">https://insa-lyon-fr.zoom.us/j/93822421639</a>
 
 ### Venue
 
