@@ -10,6 +10,6 @@ publisher: IEEE
 publisher_url: 
 issue: 
 article_number: 
-doi: http://arxiv.org/abs/2503.19063
+doi: https://doi.org/10.1109/CCGRID64434.2025.00041
 github: https://github.com/RedChainLab/COoL-TEE
 ---
